@@ -1,0 +1,6 @@
+{
+  "project_name": "mlops_starter",
+  "author_name": "Franck Tankouan",
+  "python_version": "3.10",
+  "description": "A template for standardized MLOps project structure"
+}
